@@ -1,7 +1,7 @@
 # Pizza-Maker-GUI-using-Java-Swings
 
 ## Abstract
-Our Project is to make a software/program for shops which make pizza i.e. inventory for pizza maker. Hence forth the Title, "Pizza Maker".
+The Project is to make a software/program for shops which make pizza i.e. inventory for pizza maker. Hence forth the Title, "Pizza Maker".
 This software works in a very simple and user-friendly manner.
 The program first accepts the pizza order from the customer, as they desire their pizza to be i.e. The customer is given option to choose the:
   1.  Crust of Pizza.
